@@ -1,2 +1,2 @@
 # FindAtoms
-A community gathering app based on the hobbies app 
+A community gathering app based on the hobbies 
